@@ -2,7 +2,7 @@
 ^-^ ^=^    学习总结 详情wiki    ^-^ ^=^
 
 
-[ios知识小集^_^](https://github.com/jiangchao829/IOS-entry-to-give-up/wiki/ios知识小集%5E_%5E)
+我自己瞎编的[ios知识小集^_^](https://github.com/jiangchao829/IOS-entry-to-give-up/wiki/ios知识小集%5E_%5E)
 
 [objc-zen-book-cn 个人总结 陆续](https://github.com/jiangchao829/jiangchaoRACDemo/wiki/读-objc-zen-book-cn)
 
