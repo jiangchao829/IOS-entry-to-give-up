@@ -16,6 +16,8 @@
 
 [读 编写高质量的iOS代码的52个有效方法](https://github.com/jiangchao829/IOS-entry-to-give-up/wiki/读-%22编写高质量的iOS代码的52个有效方法%22-总结)
 
+[读 iOS应用逆向工程(第2版)](https://github.com/jiangchao829/IOS-entry-to-give-up/wiki/读-iOS应用逆向工程(第2版))
+
 [每天一部WWDC视频 总结](https://github.com/jiangchao829/jiangchaoRACDemo/wiki/每天一部WWDC视频-总结)
 
 [leetcode刷题总结](https://github.com/jiangchao829/jiangchaoRACDemo/wiki/leetcode刷题总结)
