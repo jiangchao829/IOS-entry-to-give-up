@@ -24,7 +24,8 @@
 
 [首都图书馆日记](https://github.com/jiangchao829/Capital-Library-Note/wiki/Editing-2019-12-1首图总结)
 
-OC方法交换swizzle详细介绍比如同时hook同一个方法,比如hook的方法是父类 子类和父类同时被hook[OC方法交换swizzle详细介绍](https://github.com/jiangchao829/IOS-entry-to-give-up/wiki/OC方法交换swizzle详细介绍)
+OC方法交换swizzle详细介绍比如同时hook同一个方法,比如hook的方法是父类的
+[OC方法交换swizzle详细介绍](https://github.com/jiangchao829/IOS-entry-to-give-up/wiki/OC方法交换swizzle详细介绍)
 
 我个人喜欢的博客地址^_^[ 经典博客地址](https://github.com/jiangchao829/IOS-entry-to-give-up/wiki/经典博客地址)
 
