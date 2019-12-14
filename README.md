@@ -6,7 +6,7 @@
 
 [读 objc-zen-book-cn 个人总结](https://github.com/jiangchao829/jiangchaoRACDemo/wiki/读-objc-zen-book-cn)
 
-[读 "程序员的自我修养"的个人总结 待更新(https://github.com/jiangchao829/jiangchaoRACDemo/wiki/读-”程序员的自我修养“的个人总结)
+[读 "程序员的自我修养"的个人总结 待更新](https://github.com/jiangchao829/jiangchaoRACDemo/wiki/读-”程序员的自我修养“的个人总结)
 
 [读 苹果官方文档 Instruments使用指南 待更新](https://github.com/jiangchao829/jiangchaoRACDemo/wiki/读-苹果官方文档---Instruments使用指南)
 
