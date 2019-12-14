@@ -4,7 +4,7 @@
 
 我自己瞎编的[ios知识小集^_^](https://github.com/jiangchao829/IOS-entry-to-give-up/wiki/ios知识小集%5E_%5E)
 
-[读 objc-zen-book-cn 个人总结](https://github.com/jiangchao829/jiangchaoRACDemo/wiki/读-objc-zen-book-cn)
+[读 禅与 Objective-C 编程艺术 个人总结](https://github.com/jiangchao829/jiangchaoRACDemo/wiki/读-objc-zen-book-cn)
 
 [读 "程序员的自我修养"的个人总结 待更新](https://github.com/jiangchao829/jiangchaoRACDemo/wiki/读-”程序员的自我修养“的个人总结)
 
