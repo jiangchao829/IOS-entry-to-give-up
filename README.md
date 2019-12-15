@@ -6,7 +6,7 @@
 
 [读 禅与 Objective-C 编程艺术 个人总结 完结](https://github.com/jiangchao829/jiangchaoRACDemo/wiki/读-objc-zen-book-cn)
 
-[读 禅与 Objective-C 高级编程 个人总结 更新中](https://github.com/jiangchao829/IOS-entry-to-give-up/wiki/Objective-C高级编程)
+[读 Objective-C 高级编程 个人总结 更新中](https://github.com/jiangchao829/IOS-entry-to-give-up/wiki/Objective-C高级编程)
 
 [读 "程序员的自我修养"的个人总结 待更新](https://github.com/jiangchao829/jiangchaoRACDemo/wiki/读-”程序员的自我修养“的个人总结)
 
